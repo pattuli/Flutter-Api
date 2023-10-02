@@ -1,0 +1,290 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Lonnie",
+                "last": "Clarke"
+            },
+            "location": {
+                "street": {
+                    "number": 8042,
+                    "name": "Denny Street"
+                },
+                "city": "Dundalk",
+                "state": "Sligo",
+                "country": "Ireland",
+                "postcode": 28396,
+                "coordinates": {
+                    "latitude": "3.7190",
+                    "longitude": "-7.8431"
+                },
+                "timezone": {
+                    "offset": "+1:00",
+                    "description": "Brussels, Copenhagen, Madrid, Paris"
+                }
+            },
+            "email": "lonnie.clarke@example.com",
+            "login": {
+                "uuid": "a27c25c3-21b1-4e9d-a41d-4e1980f3911a",
+                "username": "beautifulsnake329",
+                "password": "diaper",
+                "salt": "lfRg5K24",
+                "md5": "4bdfb0836f0744cb693f7d394e733897",
+                "sha1": "34c84fc290591dc7af2068acdb57d517ce8112cd",
+                "sha256": "41bf8e3f48ed2e07d6f2aa5654459e601fdbc3d02c14637b8acf88b25e78fb75"
+            },
+            "dob": {
+                "date": "1996-05-09T04:12:52.142Z",
+                "age": 26
+            },
+            "registered": {
+                "date": "2004-02-12T13:02:05.750Z",
+                "age": 19
+            },
+            "phone": "041-091-5006",
+            "cell": "081-579-5436",
+            "id": {
+                "name": "PPS",
+                "value": "4871382T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/59.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+            },
+            "nat": "IE"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Horiv",
+                "last": "Chernyavskiy"
+            },
+            "location": {
+                "street": {
+                    "number": 9073,
+                    "name": "Poliskiy provulok"
+                },
+                "city": "Sevastopol",
+                "state": "Zaporizka",
+                "country": "Ukraine",
+                "postcode": 80836,
+                "coordinates": {
+                    "latitude": "10.7921",
+                    "longitude": "88.7434"
+                },
+                "timezone": {
+                    "offset": "-7:00",
+                    "description": "Mountain Time (US & Canada)"
+                }
+            },
+            "email": "horiv.chernyavskiy@example.com",
+            "login": {
+                "uuid": "f96697dc-25d3-4f2e-a2eb-c4cc87fd4d83",
+                "username": "bluekoala375",
+                "password": "cheater",
+                "salt": "XIE9ZrZG",
+                "md5": "f3d80b447ac66f23cb8a3ec8ba2afd1e",
+                "sha1": "2575f13899539c9d089a5149f27f56de3b2f025a",
+                "sha256": "1255d28358170d233a0050c2aa5730c8ba2fbfa211f19e424fb80852cab25a71"
+            },
+            "dob": {
+                "date": "1967-02-24T17:57:24.587Z",
+                "age": 56
+            },
+            "registered": {
+                "date": "2020-03-23T08:40:53.524Z",
+                "age": 3
+            },
+            "phone": "(066) C22-1254",
+            "cell": "(066) S30-1963",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/30.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+            },
+            "nat": "UA"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Willi",
+                "last": "Heiser"
+            },
+            "location": {
+                "street": {
+                    "number": 8577,
+                    "name": "Kirchstraße"
+                },
+                "city": "Höchstädt an der Donau",
+                "state": "Mecklenburg-Vorpommern",
+                "country": "Germany",
+                "postcode": 69636,
+                "coordinates": {
+                    "latitude": "-52.2671",
+                    "longitude": "-24.0553"
+                },
+                "timezone": {
+                    "offset": "+5:30",
+                    "description": "Bombay, Calcutta, Madras, New Delhi"
+                }
+            },
+            "email": "willi.heiser@example.com",
+            "login": {
+                "uuid": "46e40144-1496-42b6-81fb-537f5bd867a2",
+                "username": "sadlion397",
+                "password": "yyyyyy1",
+                "salt": "klssQNGa",
+                "md5": "2e78e7b3135e513dbecb1560e1e91e31",
+                "sha1": "d255f95691c54db4f9f5ff61e7581bffe1654aba",
+                "sha256": "949f91a3c51480eeb65b8602de15de770986a508fe708463b3f9cf1359e56d67"
+            },
+            "dob": {
+                "date": "1999-11-29T08:54:26.305Z",
+                "age": 23
+            },
+            "registered": {
+                "date": "2018-08-14T09:06:13.129Z",
+                "age": 4
+            },
+            "phone": "0210-3312257",
+            "cell": "0179-1161661",
+            "id": {
+                "name": "SVNR",
+                "value": "58 291199 H 255"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/21.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+            },
+            "nat": "DE"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Jeremy",
+                "last": "Walker"
+            },
+            "location": {
+                "street": {
+                    "number": 4231,
+                    "name": "3rd St"
+                },
+                "city": "Keswick",
+                "state": "Saskatchewan",
+                "country": "Canada",
+                "postcode": "Y7Q 8X0",
+                "coordinates": {
+                    "latitude": "-56.9263",
+                    "longitude": "-74.5361"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "jeremy.walker@example.com",
+            "login": {
+                "uuid": "4ba80fb8-5fd3-4420-8523-39be32a1a919",
+                "username": "heavytiger567",
+                "password": "3006",
+                "salt": "Yvk3GbQP",
+                "md5": "ea44ceb4b8333fa9b9d84eacbcc5bc5c",
+                "sha1": "133f86ff0283d31870e4c601fefc6df6a9476e57",
+                "sha256": "5742bb56703b8ce7b3c88d5fcbd86cae4ea481af3ce7bdb2538329b22ef52925"
+            },
+            "dob": {
+                "date": "1989-12-21T14:47:16.184Z",
+                "age": 33
+            },
+            "registered": {
+                "date": "2004-07-06T20:54:23.323Z",
+                "age": 18
+            },
+            "phone": "F91 G92-2916",
+            "cell": "U50 W97-3134",
+            "id": {
+                "name": "SIN",
+                "value": "848154233"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/57.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+            },
+            "nat": "CA"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Juho",
+                "last": "Erkkila"
+            },
+            "location": {
+                "street": {
+                    "number": 6722,
+                    "name": "Visiokatu"
+                },
+                "city": "Somero",
+                "state": "Southern Savonia",
+                "country": "Finland",
+                "postcode": 35388,
+                "coordinates": {
+                    "latitude": "0.4748",
+                    "longitude": "9.4257"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "juho.erkkila@example.com",
+            "login": {
+                "uuid": "277ed617-e5d5-42e8-8aa0-7e8c193f23f3",
+                "username": "brownbutterfly840",
+                "password": "summer",
+                "salt": "wCAcizAb",
+                "md5": "d9d2a2013a7592678c5be6297a5d178b",
+                "sha1": "06a5154b870f477df16e5c14c4aefd10e23c1d17",
+                "sha256": "0b883fdd498f3674eeaa0d44cf8b251aa53e9422359b1210408bc6fe6f1380cb"
+            },
+            "dob": {
+                "date": "1952-03-31T17:12:01.884Z",
+                "age": 71
+            },
+            "registered": {
+                "date": "2005-07-17T23:56:45.549Z",
+                "age": 17
+            },
+            "phone": "02-985-458",
+            "cell": "040-773-67-74",
+            "id": {
+                "name": "HETU",
+                "value": "NaNNA435undefined"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/77.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+            },
+            "nat": "FI"
+        }
+    ],
+    "info": {
+        "seed": "ab13a2883cbf12d9",
+        "results": 5,
+        "page": 1,
+        "version": "1.4"
+    }
+}
